@@ -24,7 +24,6 @@
 
 import { ANSWER_DATA } from '@/utils/answerData'
 import PinyinMatch from 'pinyin-match'
-import zpinyin from 'zpinyin';
 
 export default {
   components: {
